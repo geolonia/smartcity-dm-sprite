@@ -1,3 +1,5 @@
+# Smart City 公共測量成果Sprite
+
 # Geolonia アイコンセットのテンプレート
 
 Geolonia Maps または Maplibre でアイコンを表示させるためにスプライトシートを作るテンプレート
